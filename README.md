@@ -7,7 +7,7 @@ First you have to import library. Like this way
 
 ```python
 
-from Banner import banner, color
+from Banner import banner, ColorText
 ```
 
 this will help you to import this library. 
