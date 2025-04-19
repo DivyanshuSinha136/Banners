@@ -32,4 +32,3 @@ change text color using ColorText calss.
 form Banner import ColorText
 
 ```
-### a
