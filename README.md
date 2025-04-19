@@ -7,7 +7,7 @@ First you have to import library. Like this way
 
 ```python
 
-from banner import banner, color
+from Banner import banner, color
 ```
 
 this will help you to import this library. 
@@ -16,7 +16,8 @@ this will help you to import this library.
 
 For editing text we have to import banner module from banner package. 
 
-```from banner import banner
+```python
+from Banner import banner
 
 banner(text="Your_text")
 ```
